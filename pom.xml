@@ -32,6 +32,18 @@
             <version>2.3.16</version>
         </dependency>
 
+        <!--Struts使用json相关-->
+        <dependency>
+            <groupId>org.apache.struts</groupId>
+            <artifactId>struts2-json-plugin</artifactId>
+            <version>2.3.15.1</version>
+        </dependency>
+
+
+
+
+
+
         <!--jdbc相关-->
         <!-- mysql-connector-java -->
         <dependency>
